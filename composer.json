@@ -6,5 +6,10 @@
 			"name": "Jason Stidd",
 			"email": "jason.stidd@utah.edu"
 		}
-	]
+	],
+	"autoload": {
+		"psr-0": {
+			"SimpleDB": "src/"
+		}
+	}
 }
