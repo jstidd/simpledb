@@ -1,0 +1,10 @@
+{
+	"name": "jstidd/SimpleDB",
+	"Description": "Simple PHP PDO connection with MySQL",
+	"authors": [
+		{
+			"name": "Jason Stidd",
+			"email": "jason.stidd@utah.edu"
+		}
+	]
+}
